@@ -1,8 +1,8 @@
-package Project00;
+package Project01;
 
 import java.util.*;
-import Project00.TeamCool;
-import Project00.Member;
+import Project01.TeamCool;
+import Project01.Member;
 
 public class Main {
 

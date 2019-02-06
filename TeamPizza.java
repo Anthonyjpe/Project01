@@ -4,6 +4,7 @@ public class TeamPizza extends Team{
 
     public TeamPizza(String name) {
         super(name);
+<<<<<<< HEAD
         createTeamMembers();
     }
 
@@ -17,6 +18,12 @@ public class TeamPizza extends Team{
         //members.add(new Project01.SchaperMember("Greg Schaper"));
         // create a new member class for each team member
         // and add it to the team members list
+=======
+    }
+
+    @Override
+    public void createTeamMembers() {
+>>>>>>> 8977c846b12456d2217e3298a30d144cd3e9e6e5
     }
 
 }
